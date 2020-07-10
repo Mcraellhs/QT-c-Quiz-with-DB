@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/slike">
+        <file>loginicon.png</file>
+        <file>pregled.png</file>
+    </qresource>
+</RCC>
